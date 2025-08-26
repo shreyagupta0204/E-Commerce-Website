@@ -35,4 +35,3 @@ ecommerce-website/
 │── sproduct.html    # Single product details page  
 │── style.css        # Styling file  
 │── script.js        # JavaScript interactivity  
-│── images/          # Product & banner images  
